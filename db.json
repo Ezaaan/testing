@@ -1,24 +1,53 @@
 {
-  "chats": [
+  "Chats": [
     {
+       "id": 1,
        "from": "user",
        "chat": "Hi there bot!"
      },
    {
+      "id": 1,
        "from": "bot",
        "chat": "Hi there user!"
      },
    {
-       "from": "user",
+      "id": 1, 
+      "from": "user",
        "chat": "How are you?"
      },
    {
-       "from": "bot",
+      "id": 1, 
+      "from": "bot",
        "chat": "Good, you?"
      },
    {
+      "id": 1,
        "from": "user",
        "chat": "I'm fine too"
      }
+   ],
+
+
+   "ChatHistory": [
+    {
+       "id": "1",
+       "lastChat": "This is the last chat",
+       "updateAt": "yesterday"
+     },
+     {
+      "id": "2",
+      "lastChat": "Another last chat",
+      "updateAt": "today"
+    },
+    {
+      "id": "3",
+      "lastChat": "U R Gae",
+      "updateAt": "tomorrow"
+    },
+    {
+      "id": "4",
+      "lastChat": "Bing Chilling",
+      "updateAt": "future"
+    }
    ]
 }
