@@ -1,22 +1,24 @@
-[
- {
-    "from": "user",
-    "chat": "Hi there bot!"
-  },
 {
-    "from": "bot",
-    "chat": "Hi there user!"
-  },
-{
-    "from": "user",
-    "chat": "How are you?"
-  },
-{
-    "from": "bot",
-    "chat": "Good, you?"
-  },
-{
-    "from": "user",
-    "chat": "I'm fine too"
-  }
-]
+  "chats": [
+    {
+       "from": "user",
+       "chat": "Hi there bot!"
+     },
+   {
+       "from": "bot",
+       "chat": "Hi there user!"
+     },
+   {
+       "from": "user",
+       "chat": "How are you?"
+     },
+   {
+       "from": "bot",
+       "chat": "Good, you?"
+     },
+   {
+       "from": "user",
+       "chat": "I'm fine too"
+     }
+   ]
+}
