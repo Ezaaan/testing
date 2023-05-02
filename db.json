@@ -1,0 +1,32 @@
+[
+ {
+    "id": 1,
+    "from": "user",
+    "chat": "Hi there bot!",
+    "time": 15-31-21,
+  },
+{
+    "id": 2,
+    "from": "bot",
+    "chat": "Hi there user!",
+    "time": 15-31-21,
+  },
+{
+    "id": 3,
+    "from": "user",
+    "chat": "How are you?",
+    "time": 15-31-21,
+  },
+{
+    "id": 4,
+    "from": "bot",
+    "chat": "Good, you?",
+    "time": 15-31-21,
+  },
+{
+    "id": 5,
+    "from": "user",
+    "chat": "I'm fine too",
+    "time": 15-31-21,
+  },
+]
